@@ -27,6 +27,7 @@ How to install:
       Open Xcode, go to Window → Devices .
       Then, the Devices screen will appear. Choose the device you want to install the app on.
       Drag and drop your . ipa file into the Installed Apps
+      
 2.2.2 Install with iTune
       Copy the .ipa file (ctrl+c), go to iTunes, right-clicked on Devices name in the left side bar and selected "Paste". And that's it. The app should be installed on your phone.
       
