@@ -1,5 +1,5 @@
 # blueplayer
-iOS YouTube player - search, play, organize your favorite video/music.
+iOS YouTube player / client - search, play, organize your favorite video/music.
 
 Main feature:
 * Support background play - great for music/audio listening;
